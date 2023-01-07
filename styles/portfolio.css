@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+/* banner styles */
+.header{
+    background-color: rgba(196, 222, 255, 0.219);
+}
+.banner{
+   margin: 0px 150px ;
+   display:flex;
+   align-items: center;
+}
+.btn-primary{
+    margin: 0;
+    color: chocolate;
+    padding: 20px 25px;
+}
+/* section style */
+.section-about{
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    gap:100px;
+    margin: 50px;
+    
+    
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    background-color: antiquewhite
+}
+.pg{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/* my classes */
+.my-classes{
+
+    margin: 124px 230px;
+}
+.section-title{
+    display: flex;
+    gap: 200px;
+    background-color: antiquewhite;
+    padding: 100px 100px ;
+    align-content: space-around;
+
+}
+.font-classes{
+    margin: 130px;
+    text-align: center;
+}
+/* contact style */
+.contact-title{
+    margin-bottom: 20px;
+}
+.contact{
+    display: flex;
+    gap: 200px;
+    background-color: rgb(238, 223, 169);
+    padding: 130px 200px;
+}
+.contact .contact-title{
+    text-align: left;
+}
+.contact input{
+    margin-top: 30px;
+    border: 0;
+    width: 100%;
+}
+input{
+    height: 50px;
+}
+.colour{
+    background-color: coral;
+}
